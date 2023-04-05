@@ -1,0 +1,22 @@
+.thumbnailListContainer {
+  height: 180px;
+  width: 130px;
+  background-color: transparent;
+  border: 0px solid transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 8px;
+  margin-bottom: 8px;
+}
+
+.thumbnailButton {
+  background-color: transparent;
+  border: 0px solid transparent;
+  cursor: pointer;
+}
+
+.thumbnailImage {
+  height: 150px;
+  width: 130px;
+}

@@ -1,0 +1,19 @@
+.listContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 0px solid transparent;
+  width: 130px;
+  margin-left: 0px;
+}
+
+.tabButton {
+  background-color: transparent;
+  border: 0px solid transparent;
+  font-size: 25px;
+  font-weight: 700px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  text-decoration: underline;
+  cursor: pointer;
+}
